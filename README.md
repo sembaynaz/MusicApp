@@ -1,9 +1,9 @@
 # MusicApp
-##Music App (Swift)
+## Music App (Swift)
 
 Welcome to the Music App! This iOS application allows users to browse, search, and listen to their favorite music tracks. It is built using Swift programming language and provides a user interface similar to iTunes.
 
-##Features
+## Features
 
 The Music App comes with the following features:
 
@@ -34,7 +34,7 @@ Dependency 2: Description of the dependency and installation instructions.
 Dependency 3: Description of the dependency and installation instructions.
 Make sure to install the required dependencies before running the app to ensure its proper functionality.
 
-##Contributing
+## Contributing
 
 We welcome contributions to the Music App project! If you would like to contribute, please follow these guidelines:
 
@@ -46,11 +46,11 @@ Open a pull request and describe your changes in detail.
 Wait for the maintainers to review and merge your pull request.
 Please ensure your code follows the project's coding style and conventions. Be sure to test your changes thoroughly before submitting a pull request.
 
-##License
+## License
 
 The Music App is licensed under the MIT License. You are free to use, modify, and distribute the code for personal or commercial purposes.
 
-##Acknowledgements
+## Acknowledgements
 
 We would like to acknowledge the following resources that contributed to the development of the Music App:
 
